@@ -5,7 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Adapter.fs" />
     <Compile Include="ChainOfResposibility.fs" />
+    <Compile Include="Command.fs" />
   </ItemGroup>
 
 </Project>
